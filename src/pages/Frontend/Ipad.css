@@ -1,0 +1,19 @@
+.ipadPro {
+    background-image: url("../../assets/images/ipad/ipad_pro_hero.jpg");
+    background-position: 80% 0%;
+}
+.ipad {
+    background-image: url("../../assets/images/ipad/ipad_hero.jpg");
+    background-position: 40% 0%;
+}
+.accessories {
+    background-image: url("../../assets/images/ipad/accessories.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.why-ipad {
+    background-image: url("../../assets/images/ipad/why_ipad.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 90% 100%;
+}

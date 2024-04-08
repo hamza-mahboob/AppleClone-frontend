@@ -1,0 +1,77 @@
+.watchS9 {
+    background-image: url("../../assets/images/apppleWatch/tile_s9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.watchUltra {
+    background-image: url("../../assets/images/apppleWatch/tile_ultra_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.watchSE {
+    background-image: url("../../assets/images/apppleWatch/tile_watch_se.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.carbon-neutral {
+    background-image: url("../../assets/images/apppleWatch/carbon_neutral.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 100%;
+}
+.family-setup {
+    background-image: url("../../assets/images/apppleWatch/family_setup.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0% 50%;
+}
+
+.fitness-plus {
+    background-image: url("../../assets/images/apppleWatch/fitness_plus.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 35% 0%;
+}
+
+@keyframes slideAnimation {
+    0% {
+        background-position: 22.35% center;
+    }
+    100% {
+        background-position: center center;
+    }
+}
+.cto-bands {
+    background-image: url("../../assets/images/apppleWatch/cto-bands.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 22.35% center;
+    animation: slideAnimation 3s ease-in-out infinite alternate;
+}
+.why-apple-watch {
+    background-image: url("../../assets/images/apppleWatch/tile_why_watch.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+}
+.watchOS {
+    background-image: url("../../assets/images/apppleWatch/watchos.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+}
+.watch-bands {
+    background-image: url("../../assets/images/apppleWatch/tile_bands.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+}
+.watch-headphone {
+    background-image: url("../../assets/images/apppleWatch/airpods.jpg");
+    background-repeat: no-repeat;
+    background-position: center 80%;
+    background-size: contain;
+}

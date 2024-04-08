@@ -1,0 +1,57 @@
+.iphone15pro {
+    background-image: url("../../assets/images/hero_iphone15pro_medium_2x.jpg");
+}
+.iphone15 {
+    background-image: url("../../assets/images/hero_iphone15_medium.jpg");
+}
+.applevision {
+    background-image: url("../../assets/images/hero_apple_vision_medium_2x.jpg");
+}
+.applewatch {
+    background-image: url("../../assets/images/promo_apple_watch_series_9_2x.jpg");
+}
+.mbkpro {
+    background-image: url("../../assets/images/promo_mbp_large_2x.jpg");
+}
+.ipad {
+    background-image: url("../../assets/images/promo_ipad_small_2x.jpg");
+}
+.airpod {
+    background-image: url("../../assets/images/promo_airpods_pro_order__d8xv36p4uwae_large_2x.jpg");
+}
+.applecard {
+    background-image: url("../../assets/images/tile__cauwwcyyn9hy_large_2x.jpg");
+}
+.tradein {
+    background-image: url("../../assets/images/promo_iphone_tradein__bugw15ka691e_large_2x.jpg");
+}
+
+@media screen and (min-width: 1244px) {
+    .iphone15pro {
+        background-image: url("../../assets/images/hero_iphone15pro_large_2x.jpg");
+    }
+    .applevision {
+        background-image: url("../../assets/images/hero_apple_vision_pro_avail__ecthwv10twsy_large_2x.jpg");
+    }
+}
+
+@media screen and (max-width: 733px) {
+    .iphone15pro {
+        background-image: url("../../assets/images/hero_iphone15pro_small_2x.jpg");
+    }
+    .iphone15 {
+        background-image: url("../../assets/images/hero_iphone15.jpg");
+    }
+    .applevision {
+        background-image: url("../../assets/images/hero_apple_vision_small_2x.jpg");
+    }
+    .applewatch {
+        background-image: url("../../assets/images/promo_apple_watch_series_9.jpg");
+    }
+    .mbkpro {
+        background-image: url("../../assets/images/promo_mbp_small_2x.jpg");
+    }
+    .ipad {
+        background-image: url("../../assets/images/promo_ipad_large_2x.jpg");
+    }
+}
